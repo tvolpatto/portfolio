@@ -69,6 +69,7 @@ body{
     margin: 0;
     padding: 1% 2%;
     height: 50%;
+    text-align: justify;
    
 }
 
@@ -86,7 +87,7 @@ hr{
 }
 
 .container-text{
-    width: 700px;
+    width: 755px;
     display: inline-block;
     margin-left: 10px;
 }

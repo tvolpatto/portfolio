@@ -74,16 +74,11 @@ body{
 
 hr{
     border: solid cccccc ;
+    margin-top: 10px;
 }
 
 #container-title {
     color: #4aaaa5;
-}
-
-.clearfix::after {
-    content: "";
-    display: block;
-    clear: both;
 }
 
 #container-img {
@@ -96,6 +91,11 @@ hr{
     margin-left: 10px;
 }
 
+.clearfix::after {
+    content: "";
+    display: block;
+    clear: both;
+}
 
 
 footer{

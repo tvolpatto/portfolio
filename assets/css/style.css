@@ -152,6 +152,26 @@ section {
     height: 160px;
 }
 
+#project-1{
+    background-image: url("/portfolio/assets/images/pexels-photo-2625766.jpeg"); 
+}
+
+#project-2{
+    background-image: url("/portfolio/assets/images/pexels-photo-2876511.jpeg"); 
+}
+
+#project-3{
+    background-image: url("/portfolio/assets/images/pexels-photo-2990770.jpeg"); 
+}
+
+#project-4{
+    background-image: url("/portfolio/assets/images/pexels-photo-3027216.jpeg"); 
+}
+
+#project-5{
+    background-image: url("/portfolio/assets/images/pexels-photo-3071758.jpeg"); 
+}
+
 /* --------------- FOOTER --------------- */
 footer{
     background-color: #666666;
